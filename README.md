@@ -12,22 +12,24 @@
 - MySQL >= 5.7
 
 
-1. کلون کردن پروژه:
 
+1. کلون کردن پروژه:
+```bash
 git clone https://github.com/amirrezasajadiyan/task-manager-laravel-inertia.git
 
+```
 
 2. نصب وابستگی‌های PHP:
-
+```bash
 composer install
-
+```
 
 3. نصب وابستگی‌های JavaScript:
-
+```bash
 npm install
+```
 
-
-4. کپی فایل env:
+4. کپی فایل تنظیمات:
 ```bash
 cp .env.example .env
 ```
